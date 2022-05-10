@@ -1,0 +1,5 @@
+https://www.cs.cmu.edu/~odonnell/quantum18/
+https://people.eecs.berkeley.edu/~vazirani/quantum.html
+https://www.lassp.cornell.edu/mermin/qcomp/CS483.html
+https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/ 
+https://homes.cs.washington.edu/~oskin/quantum-notes.pdf

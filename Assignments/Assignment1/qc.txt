@@ -1,0 +1,5 @@
+In Elitzur-Vaidman bomb, we have:
+   %x chance of exploding
+   %y chance we detect it without exploding
+   %z chance inconclusive
+(probably x=50, y=25 and z=25)
